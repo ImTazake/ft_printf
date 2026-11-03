@@ -6,7 +6,7 @@
 /*   By: tisilva <tisilva@student.42lisboa.com>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/11/03 09:43:24 by tisilva           #+#    #+#             */
-/*   Updated: 2026/11/03 10:16:26 by tisilva          ###   ########.fr       */
+/*   Updated: 2026/11/03 10:43:43 by tisilva          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,11 +15,11 @@
 
 # include <stdarg.h>
 # include <unistd.h>
+# include <stddef.h>
 
 # define DEC_BASE  "0123456789"
 # define HEX_UBASE "0123456789ABCDEF"
 # define HEX_LBASE "0123456789abcdef"
-# define NULL ((void *)0)
 
 typedef enum e_base_type
 {
