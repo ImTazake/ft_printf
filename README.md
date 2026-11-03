@@ -89,5 +89,3 @@ Run it:
 - Linux manual pages: `printf(3)`, `write(2)` and `stdarg(3)`
 - C documentation: variadic functions and type conversions
 - AI tools were used only for research purposes.
-
-# ft_printf
